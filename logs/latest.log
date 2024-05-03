@@ -1,0 +1,208 @@
+[19:35:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:35:38] [ServerMain/INFO]: Loaded 1175 recipes
+[19:35:39] [Server thread/INFO]: Starting minecraft server version 1.20.5
+[19:35:39] [Server thread/INFO]: Loading properties
+[19:35:39] [Server thread/INFO]: This server is running CraftBukkit version 4129-Spigot-b698b49-7ddb482 (MC: 1.20.5) (Implementing API version 1.20.5-R0.1-SNAPSHOT)
+[19:35:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:35:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:35:41] [Server thread/INFO]: Debug logging is disabled
+[19:35:41] [Server thread/INFO]: Default game type: SURVIVAL
+[19:35:41] [Server thread/INFO]: Generating keypair
+[19:35:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:35:41] [Server thread/INFO]: Using default channel type
+[19:35:41] [Server thread/INFO]: [voicechat] Loading voicechat v2.5.12
+[19:35:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:35:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:35:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:35:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:35:41] [Server thread/INFO]: Preparing level "world"
+[19:35:41] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:35:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[19:35:41] [Server thread/INFO]: Mob Spawn Range: 6
+[19:35:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[19:35:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:35:41] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:35:41] [Server thread/INFO]: Max TNT Explosions: 100
+[19:35:41] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:35:41] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[19:35:41] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:35:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:35:41] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:35:41] [Server thread/INFO]: View Distance: 7
+[19:35:41] [Server thread/INFO]: Simulation Distance: 10
+[19:35:41] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[19:35:41] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:35:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:35:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:35:42] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:35:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[19:35:42] [Server thread/INFO]: Mob Spawn Range: 6
+[19:35:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[19:35:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:35:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:35:42] [Server thread/INFO]: Max TNT Explosions: 100
+[19:35:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:35:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[19:35:42] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:35:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:35:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:35:42] [Server thread/INFO]: View Distance: 7
+[19:35:42] [Server thread/INFO]: Simulation Distance: 10
+[19:35:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[19:35:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:35:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:35:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:35:44] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:35:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[19:35:44] [Server thread/INFO]: Mob Spawn Range: 6
+[19:35:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[19:35:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:35:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:35:44] [Server thread/INFO]: Max TNT Explosions: 100
+[19:35:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:35:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[19:35:44] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:35:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:35:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:35:44] [Server thread/INFO]: View Distance: 7
+[19:35:44] [Server thread/INFO]: Simulation Distance: 10
+[19:35:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[19:35:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:35:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:35:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:35:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:35:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:35:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:35:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:35:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:35:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:35:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:35:47] [Server thread/INFO]: Time elapsed: 2785 ms
+[19:35:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:35:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:35:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:35:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:35:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:35:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:35:49] [Server thread/INFO]: Time elapsed: 2233 ms
+[19:35:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:35:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:35:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:35:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:35:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:35:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:35:51] [Server thread/INFO]: Time elapsed: 2411 ms
+[19:35:51] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.12
+[19:35:51] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.5-R0.1
+[19:35:51] [Server thread/INFO]: [voicechat] Compatibility version 18
+[19:35:52] [Server thread/WARN]: [voicechat] Commodore command completion is not supported
+[19:35:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:35:52] [Server thread/INFO]: Done (10.665s)! For help, type "help"
+[19:35:52] [Server thread/INFO]: [voicechat] Loading plugins
+[19:35:52] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[19:35:52] [Server thread/INFO]: [voicechat] Initializing plugins
+[19:35:52] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[19:35:52] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[19:35:52] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 25565
+[20:29:02] [User Authenticator #1/INFO]: UUID of player CRISTI4N30 is 9b9fdb85-f252-32c2-97ba-e41e376cb2ba
+[20:29:06] [Server thread/INFO]: CRISTI4N30 joined the game
+[20:29:07] [Server thread/INFO]: CRISTI4N30[/192.168.1.1:58467] logged in with entity id 56 at ([world]188.69999998807907, 80.0, -326.9229651826272)
+[20:29:16] [Server thread/INFO]: CRISTI4N30 lost connection: Disconnected
+[20:29:16] [Server thread/INFO]: [voicechat] Disconnecting client CRISTI4N30
+[20:29:16] [Server thread/INFO]: CRISTI4N30 left the game
+[20:29:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10907ms or 218 ticks behind
+[20:29:16] [Server thread/WARN]: handleDisconnection() called twice
+[20:29:34] [User Authenticator #2/INFO]: UUID of player CRISTI4N30 is 9b9fdb85-f252-32c2-97ba-e41e376cb2ba
+[20:29:35] [Server thread/INFO]: CRISTI4N30 joined the game
+[20:29:35] [Server thread/INFO]: CRISTI4N30[/192.168.1.1:58473] logged in with entity id 95 at ([world]188.69999998807907, 80.0, -326.9229651826272)
+[20:29:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2603ms or 52 ticks behind
+[20:29:37] [Server thread/INFO]: [voicechat] Received secret request of CRISTI4N30 (18)
+[20:29:37] [Server thread/INFO]: [voicechat] Sent secret to CRISTI4N30
+[20:29:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9b9fdb85-f252-32c2-97ba-e41e376cb2ba
+[20:29:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9b9fdb85-f252-32c2-97ba-e41e376cb2ba
+[20:29:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player CRISTI4N30 (9b9fdb85-f252-32c2-97ba-e41e376cb2ba) successfully connected to voice chat
+[20:29:42] [VoiceChatPacketProcessingThread/ERROR]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[20:29:42] [VoiceChatPacketProcessingThread/ERROR]: [voicechat] Packet queue has 14 packets
+[20:30:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28970ms or 579 ticks behind
+[20:47:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[20:53:29] [Server thread/INFO]: CRISTI4N30 issued server command: /gamemode creative
+[20:53:29] [Server thread/INFO]: [CRISTI4N30: Set own game mode to Creative Mode]
+[20:53:57] [Server thread/INFO]: CRISTI4N30 issued server command: /gamemode survival
+[20:53:57] [Server thread/INFO]: [CRISTI4N30: Set own game mode to Survival Mode]
+[21:00:33] [Server thread/INFO]: CRISTI4N30 issued server command: /gamemode creative
+[21:00:33] [Server thread/INFO]: [CRISTI4N30: Set own game mode to Creative Mode]
+[21:00:47] [Server thread/INFO]: CRISTI4N30 issued server command: /gamemode survival
+[21:00:47] [Server thread/INFO]: [CRISTI4N30: Set own game mode to Survival Mode]
+[21:01:18] [Server thread/INFO]: CRISTI4N30 issued server command: /gamemode creative
+[21:01:18] [Server thread/INFO]: [CRISTI4N30: Set own game mode to Creative Mode]
+[21:01:27] [Server thread/INFO]: CRISTI4N30 issued server command: /gamemode survival
+[21:01:27] [Server thread/INFO]: [CRISTI4N30: Set own game mode to Survival Mode]
+[21:03:05] [Server thread/INFO]: CRISTI4N30 lost connection: Disconnected
+[21:03:05] [Server thread/INFO]: [voicechat] Disconnecting client CRISTI4N30
+[21:03:05] [Server thread/INFO]: CRISTI4N30 left the game
+[21:33:04] [Server thread/INFO]: Stopping the server
+[21:33:04] [Server thread/INFO]: Stopping server
+[21:33:04] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.12
+[21:33:04] [Server thread/INFO]: Saving players
+[21:33:04] [Server thread/INFO]: Saving worlds
+[21:33:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:33:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:33:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:33:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:33:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:33:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:33:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
